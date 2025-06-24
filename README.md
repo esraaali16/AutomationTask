@@ -1,5 +1,5 @@
 # Automation Task : automate google search 
-** Time Taken ** : 3 hours
+* Time Taken * : 3 hours
 ** Challenges Faced ** : After automating the search button, a reCAPTCHA appeared which had to be solved manually
 ** Solution ** : I increased the wait time to allow enough time to manually solve the reCAPTCHA before the next steps continued
 
